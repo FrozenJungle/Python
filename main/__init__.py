@@ -37,6 +37,5 @@ def __main__():
 
     wordvector()
 
-
 if __name__ == '__main__':
     __main__()
